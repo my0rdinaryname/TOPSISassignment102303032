@@ -29,7 +29,7 @@ pip install numpy pandas
 
 
 ````
-Class project for PREDICTIVE ANALYSIS USING STATISTICS- UCS654 Thapar University, Patiala
+PREDICTIVE ANALYSIS USING STATISTICS- UCS654 Thapar University, Patiala
 Kriti Goyal  
 L1 (3C11)
 Roll number: 102303032
